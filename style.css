@@ -1,0 +1,51 @@
+/* element selector */
+
+
+/* p {
+    color:green;
+    font-size: 20px;
+}
+
+h1 {
+    color:blue;
+    font-size: 30px;
+} */
+
+
+/* universal selector
+* {
+    color: red;
+} */
+
+
+/* id selector
+#para{
+    color: red;
+}
+
+#head{
+    color: blue;
+} */
+
+
+/* 
+.para{
+    color: red;
+}
+
+.head{
+    color: blue;
+} */
+
+
+
+p{
+    font-family:Arial;
+    font-size:30px;
+    font-weight: 500;
+    font-style:oblique;
+    line-height:1;
+    text-align:center;
+    text-decoration:underline;
+    text-transform:uppercase;
+}
